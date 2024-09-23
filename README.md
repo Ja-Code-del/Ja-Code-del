@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ja-Code-del
 - 👀 I’m interested in Web Design and Developing Apps..
 - 🌱 I’m currently learning HTML CSS AND JAVASCRIPT .
-   and Java now 😎
-- 💞️ I’m looking to collaborate on ...
+   and Java now 😎 and Python now
+- 💞️ I’m looking to collaborate on many projects for newbies
 - 📫 How to reach me .my email qafamunto@gmail.com ..
 
 <!---
